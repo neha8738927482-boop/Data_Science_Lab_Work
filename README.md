@@ -1,2 +1,3 @@
-# Data_Science_Lab_Work
-Implementation of machine learning algorithms , data scripts ,and exploratory data analysis {DATA 110]
+Lab1_Introduction_to_python
+Lab2_Control_Statements
+Lab3_NumPy
